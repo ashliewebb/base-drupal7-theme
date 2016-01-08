@@ -1,0 +1,11 @@
+{
+  "name": "base-drupal7-theme",
+  "description": "A base theme to be use as a starting point on any project.",
+  "devDependencies": {
+    "bourbon": "^4.2.6",
+    "bourbon-neat": "^1.7.2",
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
